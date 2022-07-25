@@ -1,0 +1,3 @@
+. when box is clicked it will add X or O
+. X or O should be changed via css
+. need something that reads the array, then passes it to css if X or O
